@@ -64,7 +64,7 @@ Key responsibilities:
 ### 📫 How to Reach Me
 
 - 🌐 [LinkedIn](www.linkedin.com/in/huuluan-london)  
-- 📧 Email: your_email@example.com  
+- 📧 Email: nguyenhuuluanit69@gmail.com 
 - 🌍 Personal website (coming soon...)
 
 ---
