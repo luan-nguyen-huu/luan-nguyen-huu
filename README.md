@@ -5,8 +5,7 @@
 
 ### 🙋‍♂️ About Me
 
-I'm a 4th-year Information Technology student with a strong passion for backend development, system design, and data engineering.  
-Currently, I’m interning at **Vietnam Silicon (VNS)**, contributing to a **Workflow Automation Platform** where I work with technologies like **Golang**, **Temporal**, and **PostgreSQL**.  
+I'm a fresher golang developer  
 
 I love building clean, scalable, and maintainable systems. I enjoy turning complex problems into elegant backend logic and integrating seamlessly with frontend applications.
 
@@ -21,10 +20,8 @@ I love building clean, scalable, and maintainable systems. I enjoy turning compl
 
 **Backend Frameworks & Tools:**  
 - Golang with Clean Architecture  
-- Chi router, GORM ORM  
-- Temporal.io (Workflow orchestration)  
 - RESTful APIs  
-- Docker for containerization  
+- Docker
 
 **Frontend (basic knowledge):**  
 - React  
