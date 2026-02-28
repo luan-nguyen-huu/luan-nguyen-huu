@@ -19,14 +19,14 @@ I love building clean, scalable, and maintainable systems. I enjoy turning compl
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
 **Backend Frameworks & Tools:**  
-- Golang with Clean Architecture  
+- Golang with Clean Architecture
+- Python with Django  
 - RESTful APIs  
 - Docker
 
 **Frontend (basic knowledge):**  
 - React  
-- Vite  
-- Three.js  
+- Vite 
 
 **Databases:**  
 - PostgreSQL  
@@ -37,11 +37,16 @@ I love building clean, scalable, and maintainable systems. I enjoy turning compl
 
 ---
 
-🚀 Backend Developer @ VNS
+🚀 Backend Developer @ VNS (+1 year EXP)
 
 🛠 ERPNext System Development (Python)
 
-Contributed to the development and customization of an ERPNext-based ERP system, focusing on backend logic, business workflows, and system integrations.
+- • Contributed to the development of an enterprise ERP system supporting 200+ internal users.
+- • Took ownership of the Support Center and Leave Management modules, managing the full lifecycle from requirement clarification to production deployment.
+- • Actively developed and enhanced core modules including Resource Planning, Performance Review, Pre-onboarding, Job Application, and Employee Profile.
+- • Designed backend architecture components and implemented a role-based access control (RBAC) model to ensure flexible and secure permission management.
+- • Extended and customized database schemas to support organization-specific workflows and business rules.
+- • Improved overall system responsiveness by optimizing indexing strategies, refining SQL queries, and restructuring data processing flows, resulting in measurable latency reduction and increased system stability.
 
 ---
 
